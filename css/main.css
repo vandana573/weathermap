@@ -1,0 +1,16 @@
+button {
+    margin-top: 30px;
+}
+
+.results-hide {
+    display: none;
+}
+
+.results-show {
+    display: block;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
